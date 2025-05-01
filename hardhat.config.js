@@ -20,11 +20,11 @@ task('accounts', 'Prints the list of accounts', async (taskArgs, hre) => {
 module.exports = {
   solidity: '0.8.4',
   networks: {
-    rinkeby: {
-      url: process.env.NETWORK_URL,
-      accounts: [process.env.PRIVATE_KEY],
+    localhost: {
+      url: "http://127.0.0.1:7545", // this is Ganache's RPC URL
     },
   },
+  
   paths: {
     sources: './ethereum/contracts',
     tests: './ethereum/test',
