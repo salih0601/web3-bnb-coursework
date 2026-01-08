@@ -1,5 +1,10 @@
 ## On-chain BNB Property Ownership and Rental
 
+Original project: https://github.com/salih2182755/web3-bnb-coursework
+Maintained and modified by Muhammed Salih Kaidakath
+
+
+
 ![Header](/screenshots/web3-bnb.png)
 
 ### Features
