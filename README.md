@@ -1,3 +1,41 @@
+# Web3-BNB-Coursework
+
+**Project Type:** Blockchain / Web3 / BNB Smart Contract Application  
+**Author & Maintainer:** Muhammed Salih Kaidakath  
+**Original Repository:** [University GitHub Repo](https://github.com/salih2182755/web3-bnb-coursework)
+
+---
+
+## 📖 Project Overview
+
+This project is a **Web3 decentralized application (DApp)** built on the **Binance Smart Chain (BNB)** network.  
+It demonstrates the integration of smart contracts, blockchain transactions, and a front-end interface for interacting with the blockchain.  
+
+The project was originally cloned from a public university repository and has been **modified and maintained** to include improvements and enhancements.
+
+---
+
+## ⚙️ Technologies Used
+
+- **Blockchain & Smart Contracts:** Solidity, Binance Smart Chain (BNB)  
+- **Front-End:** React.js, HTML, CSS, Bootstrap  
+- **Back-End / Integration:** Node.js, Web3.js  
+- **Version Control:** Git & GitHub  
+- **Development Tools:** VS Code, MetaMask (for wallet integration)
+
+---
+
+## 🛠 Project Features
+
+- Connects to **MetaMask wallet** for BNB transactions  
+- Users can interact with **smart contracts** directly from the front-end  
+- Transaction confirmation and status are displayed in real-time  
+- Fully functional **DApp workflow** from front-end interaction to blockchain execution
+
+---
+
+## 📂 Folder Structure
+
 ## On-chain BNB Property Ownership and Rental
 
 Original project: https://github.com/salih2182755/web3-bnb-coursework
